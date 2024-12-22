@@ -1,28 +1,26 @@
 # Привет, я Zhanmyrza! 👋  
+Добро пожаловать в мой мир технологий! ✨
 
-Добро пожаловать на мой GitHub, где **код превращается в магию** ✨.  
-Я увлечён созданием крутых проектов и изучением новых технологий.  
-
-## 🔥 Немного обо мне:  
-- 💻 Люблю разрабатывать: от веб-приложений до чего-то по-настоящему уникального.  
-- 🌱 Постоянно учусь чему-то новому. Сейчас углубляюсь в [ваша тема/технология].  
-- 🎯 Цель на 2024: сделать что-то такое, что удивит даже меня.  
-
-## 🛠 Чем я занимаюсь:  
-- 📱 Создаю проекты, которые полезны и красивы.  
-- 🚀 Изучаю мир разработки и делюсь опытом.  
-
-## 📫 Где меня найти:  
-- Telegram: [@zhanmyrza_13](https://t.me/zhanmyrza_13)  
-- Instagram: [@zhanmyrza_13](https://www.instagram.com/zhanmyrza_13?igsh=NzU0eWQ1M3czcXYy)  
-
-## ⚡️ Немного веселья:  
-- Когда не кодю, я, возможно, ломаю код 🤖.  
-- Люблю крутые мемы и ещё больше люблю их интегрировать в код.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhanmyrza&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanmyrza&layout=compact&theme=radical)  
+![Header Image](https://your-image-url.com/header.jpg)
 
 ---
 
-👀 Заглядывай в мои репозитории — там всегда что-то интересное!
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+![Project Image 1](https://your-image-url.com/project1.jpg)
+![Project Image 2](https://your-image-url.com/project2.jpg)
+![Project Image 3](https://your-image-url.com/project3.jpg)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhanmyrza&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanmyrza&layout=compact&theme=radical)
+
+---
+
+![Footer Image](https://your-image-url.com/footer.jpg)
