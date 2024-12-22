@@ -1,7 +1,7 @@
 # Привет, я Zhanmyrza! 👋  
 Добро пожаловать в мой мир технологий! ✨
 
-![Header Image](https://your-image-url.com/header.jpg)
+![Header Image](https://media.giphy.com/media/26tPpxrYyQ26yGF2I/giphy.gif)
 
 ---
 
@@ -12,9 +12,9 @@
 
 ---
 
-![Project Image 1](https://your-image-url.com/project1.jpg)
-![Project Image 2](https://your-image-url.com/project2.jpg)
-![Project Image 3](https://your-image-url.com/project3.jpg)
+![Project Image 1](https://via.placeholder.com/800x400.png?text=Project+1)
+![Project Image 2](https://via.placeholder.com/800x400.png?text=Project+2)
+![Project Image 3](https://via.placeholder.com/800x400.png?text=Project+3)
 
 ---
 
@@ -23,4 +23,4 @@
 
 ---
 
-![Footer Image](https://your-image-url.com/footer.jpg)
+![Footer Image](https://media.giphy.com/media/26tPpxrYyQ26yGF2I/giphy.gif)
