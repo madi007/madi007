@@ -1,5 +1,4 @@
-# 💫 About Me:
-Zhanmyrza_0
+# 💫 About Me: Zhanmyrza
 
 
 ## 🌐 Socials:
